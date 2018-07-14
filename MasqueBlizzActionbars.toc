@@ -1,0 +1,7 @@
+## Title: MasqueBlizzActionBars
+## Interface: 70300
+## Notes: Adds Masque support to the default blizzard action bars
+## Author: Bruton
+## Dependencies: Masque
+
+main.lua
